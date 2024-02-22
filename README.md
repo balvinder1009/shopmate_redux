@@ -7,4 +7,4 @@ Learning:
 3. learnt about useDispatch() and useSelector() hooks
 4. became awre about creating slice
 
-Site URL : 
+Site URL : https://shopmate-redux.vercel.app/
